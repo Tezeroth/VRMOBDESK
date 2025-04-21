@@ -1,3 +1,5 @@
+**see aug folder for recent better documentation**
+
 try intergrating this into the project https://glitch.com/~aframe-arc-handy-controls-component
 
 A boiler plate project for getting started with VR and AR with AFrame
