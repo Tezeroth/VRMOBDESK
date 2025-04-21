@@ -1,4 +1,4 @@
-**see aug folder for recent better documentation**
+**see aug and UML folder for recent better documentation**
 
 try intergrating this into the project https://glitch.com/~aframe-arc-handy-controls-component
 
